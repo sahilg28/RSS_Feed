@@ -2,8 +2,6 @@
 
 A Python-based RSS feed aggregator that collects news articles from major news agencies across multiple countries. The project extracts structured data from RSS feeds, including headlines, summaries, publication dates, and source information.
 
-[![GitHub](https://img.shields.io/badge/GitHub-RSS_Feed-blue)](https://github.com/sahilg28/RSS_Feed.git)
-
 ## Features
 
 - Collects news from 22 countries with multiple sources per country
@@ -55,7 +53,7 @@ cd RSS_Feed
 2. Create a virtual environment (recommended):
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  
 ```
 
 3. Install dependencies:
@@ -136,14 +134,3 @@ streamlit run streamlit_app.py
    - Regular data collection
    - Configurable collection intervals
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Repository
-
-The project is hosted on GitHub: [RSS_Feed](https://github.com/sahilg28/RSS_Feed.git)
