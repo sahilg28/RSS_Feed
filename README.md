@@ -81,6 +81,10 @@ To view the collected data in a web interface:
 streamlit run streamlit_app.py
 ```
 
+![Global News Dashboard - Articles Table](/assets/Dashboard1.png)
+
+![Global News Dashboard - Charts](/assets/Dashboard2.png)
+
 ## Project Structure
 
 - `main.py`: Main script to run the RSS feed collection
